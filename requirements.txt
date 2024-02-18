@@ -1,0 +1,8 @@
+tensorflow[and-cuda]
+keras
+pandas
+nltk
+imblearn
+scikit-learn
+pyarrow
+matplotlib
