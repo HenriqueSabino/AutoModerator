@@ -6,3 +6,5 @@ imblearn
 scikit-learn
 pyarrow
 matplotlib
+fastapi
+uvicorn
